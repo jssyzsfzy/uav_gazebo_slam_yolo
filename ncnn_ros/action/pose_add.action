@@ -1,0 +1,9 @@
+# 1. 目标数据
+float32 x_add
+float32 y_add
+---
+# 2. 反馈数据
+float32 response
+---
+# 3. 连续反馈
+float32 progress_bar
